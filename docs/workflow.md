@@ -24,3 +24,5 @@ Note that there is no consensus between ensemble members on the cluster numbers.
 
 # Plotting the results
 To plot your recently found results, use the `Plots.ipynb` notebook. These are the exact plots used in the article plus a few plots that ended up not being used in the paper but still have some informative value. These include data dsitribution plots as well before and after preprocessing and the pipeline flow chart.
+
+## Congratulations! You just classified some data into water masses!
