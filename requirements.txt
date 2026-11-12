@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+cartopy
+plotly
+basemap
+gsw
+tqdm
+scikit-learn
+seaborn
