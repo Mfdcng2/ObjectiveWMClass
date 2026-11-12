@@ -1,2 +1,3 @@
 # Getting started
-To run the code in this repository you must first install the required packages. This can be found in the requirements.txt and can be installed using the command 'pip install -r requirements.txt'
+To run the code in this repository you must first install the required packages. This can be found in the requirements.txt and can be installed using the command 
+`pip install -r requirements.txt`
